@@ -16,7 +16,7 @@ This is a solution to the [Social links profile challenge on Frontend Mentor](ht
 ### Screenshot
 
 
-https://github.com/fab1opinto/social-links-test/issues/3#issue-2259149945
+[](https://github.com/fab1opinto/social-links/assets/52512005/d824ea4d-2932-4fc8-b9ac-d05799ab8a42)
 
 
 ### Links
