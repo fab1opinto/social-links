@@ -107,10 +107,14 @@ p:nth-child(4) {
 /* Landscape */
 @media (max-height: 600px) {
     
+    .sub-container {
+        height: 550px;
+    }
+    
     .login-area {
-        margin-top: 50px;
         height: 500px;
     }
+    
     .button {
         height: 30px;
     }
